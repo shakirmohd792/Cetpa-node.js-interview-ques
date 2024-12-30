@@ -1,0 +1,24 @@
+1. What is Node.js?
+ans. Node.js is a javascript runtime environment used for executing javascript code on the server side. It lets us to use javascript outside of the browser,making it possible to build backend applications with same language.
+
+2.What is the event loop in Node.js?
+ans. The event loop in Node.js is the system that makes it possible for Node.js to handle many tasks at the same time, even though it runs on a single thread and it allows asynchronous operations.
+
+3.What are the core modules in Node.js?
+ans. Core modules are the built-in modules that come with Node.js out of the box. These modules provide functionality for building applications without need to install additional pakages.
+
+4.What are the core modules in Node.js?
+ans. The require() function in Node.js is used to import modules from different files and external libraries to use their code. It is part of the CommonJS module system, which is the default module system in Node.js.
+
+5.What is the difference between require and import in Node.js?
+ans. require is for CommonJS modules and is synchronous, while import is for ES Modules, supports async imports, and is part of the modern JavaScript standard.
+
+6.What are callbacks in Node.js?
+ans. A callback in Node.js is a function that is passed as an argument to another function and is executed after the completion of that function's task. It is used to handle asynchronous operations in Node.js
+
+7.What is npm in Node.js?
+ans. npm (Node Package Manager) is a tool for managing, installing, and sharing JavaScript packages and dependencies in Node.js projects.
+
+9. How do you handle errors in Node.js
+ans. In Node.js errors can be handled by using callback function and try-catch block.
+
